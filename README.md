@@ -1,8 +1,3 @@
-#!/usr/bin/env sbcl --script
-
-sbcl --script xxx.lisp
-clisp 02-cont.lisp 
-
 # Lisp Code Examples
 
 This repository contains Lisp code snippets covering various concepts, from basic arithmetic operations to advanced macros and bitwise operations.
