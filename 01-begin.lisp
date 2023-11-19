@@ -51,6 +51,7 @@
 (setq x 25)
 (print x)
 (setTo10 x)
+(print x)  ; 10
 
 ;
 (defvar xyz 123)
